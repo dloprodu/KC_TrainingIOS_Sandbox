@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SQAViewController.h
 //  Sandbox
 //
 //  Created by David Lopez Rodriguez on 11/10/2017.
@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)save:(id)sender;
 
 @end
-
